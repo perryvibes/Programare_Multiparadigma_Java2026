@@ -8,6 +8,7 @@ public class ProgramStudenti {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+        // TESTING GIT
         afisare("Inițial");
         citireStudenti();
         afisare("După citire studenți");
